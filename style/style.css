@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(249, 243, 255);
+}
+#titulo{
+    font-family: cursive;
+    color: rgb(205, 151, 255);
+    text-shadow: 5px 6px 14px rgb(115, 113, 113);
+}
+#site{
+    color: black;
+    text-decoration: none;
+}
+#site:hover{
+    color: rgb(188, 126, 247);
+}
+#perfil{
+    float: right;
+    margin: 30px 40px;
+    border-radius: 20%;
+}
+#p1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#img2{
+    float: left;
+    margin: 30px 40px;
+    border-radius: 20%;
+}
+#p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
